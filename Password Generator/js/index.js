@@ -5,6 +5,7 @@ const rangeSlider = document.getElementById("range");
 const sliderNumber = document.getElementById("slider-number");
 const generatBtn = document.getElementById("generate-button");
 
+
 //Generate Password Function
 const generatePass = () => {
   let newpass = "";
